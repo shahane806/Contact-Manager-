@@ -32,7 +32,7 @@ int main()
 	char ch;
 	int k,i;
 	int choise;
-	/*
+	
 	clrscr();
 	window(1,1,80,25);
 	textbackground(BLACK);
@@ -85,9 +85,9 @@ int main()
 	cprintf("\nPress any key...");
 
 
-	*/
+	
 //password window
-   //	password();
+   	password();
 
 
 	menu();
